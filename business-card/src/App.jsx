@@ -2,6 +2,7 @@ import React from 'react'
 import BusinessCard from './components/BusinessCard'
 import { LinkedIn,GitHub } from './utils/links'
 import ProfileM from './assets/ProfileM.jpg'
+import ProfileImg from './assets/ProfilePic.jpg'
 
 const App = () => {
   return (
